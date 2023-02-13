@@ -9,3 +9,10 @@ Por otro lado, tambien me gusta cocinar para mis seres queridos
 ![](https://media.giphy.com/media/8vs45DklgeJztW3jr7/giphy-downsized.gif)
 
 [fuente:GIPHY](https://media.giphy.com/media/8vs45DklgeJztW3jr7/giphy-downsized.gif)
+
+
+
+<br>
+Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
+
+![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/actividades/img/MCD_logo.png)
