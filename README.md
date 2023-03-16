@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cesar Medina Maya</h1>
-<h3 align="center">'m an economist trying to learn about programming without dying in the attempt</h3>
+<h3 align="center">I'm an economist trying to learn about programming without dying in the attempt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarmedina95&label=Profile%20views&color=0e75b6&style=flat" alt="cesarmedina95" /> </p>
 
