@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Cesar Medina Maya</h1>
 <h3 align="center">'m an economist trying to learn about programming without dying in the attempt</h3>
 
